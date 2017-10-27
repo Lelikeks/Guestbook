@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Guestbook.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ImagesFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Images</Value>
+    </Setting>
+    <Setting Name="ButtonVisible" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UseAnimation" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Background" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">livre2.jpg</Value>
+    </Setting>
+    <Setting Name="ButtonLeft" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.6875</Value>
+    </Setting>
+    <Setting Name="ButtonTop" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.865</Value>
+    </Setting>
+    <Setting Name="ButtonWidth" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.1735</Value>
+    </Setting>
+    <Setting Name="ButtonHeight" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.065</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
